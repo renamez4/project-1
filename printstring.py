@@ -1,0 +1,6 @@
+print('Hello world')
+print('INE')
+print('Hello Im will be good')
+print("Hello World")
+print("INE")
+print("name")
